@@ -2,7 +2,7 @@
     "name": "Lycia",
     "description": "Hello, I am Lycia, An Intelligent ChatBot. If You Are Feeling Lonely, You can Always Come to me and Chat With Me!",
     "logo": "https://telegra.ph/file/de608084644c416309220.jpg",
-    "repository": "https://github.com/Red-Aura/Lyciachatbot",
+    "repository": "https://github.com/mohsinhsn/Lyciachatbot",
     "addons": [
         {
             "plan": "heroku-postgresql"
