@@ -9,3 +9,5 @@ The easiest way to deploy this Bot
 • [Inuka Asith](https://github.com/InukaAsith) for Chatbot Module.
 
 • [Red_Aura](https://github.com/Red-Aura) - For Chatbot Inline Module.
+
+☑ [Me](https://github.com/mohsinhsn) - for customising the module.
